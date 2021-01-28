@@ -1,0 +1,35 @@
+{
+    "data": {
+        "hash": "4e305bc2-6a88-4d1c-8523-2a251d27887d",
+        "screen": [
+            {
+                "bgColor": 10,
+                "color": 1,
+                "gravity": 5,
+                "height": 0,
+                "showDivider": true,
+                "size": 16.0,
+                "style": "3",
+                "viewType": "text",
+                "width": 0,
+                "id": "text_title_style_0",
+                "text": "Hi this is text title with style 0"
+            },
+            {
+                "bgColor": 10,
+                "color": 1,
+                "gravity": 5,
+                "height": 0,
+                "showDivider": true,
+                "size": 16.0,
+                "style": "8",
+                "viewType": "text",
+                "width": 0,
+                "id": "text_title_style_8",
+                "text": "Hi this is text title with style 8"
+            }
+        ],
+        "userMessage": ""
+    },
+    "statusCode": 200
+}
